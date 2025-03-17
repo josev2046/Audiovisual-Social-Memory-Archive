@@ -2,6 +2,9 @@
 Preserving endangered audiovisual records of 20th-century social movements through collaborative digitisation and open access.
 (Paper presented at the IASA 2022 Annual Conference.)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15038162.svg)](https://doi.org/10.5281/zenodo.15038162)
+
+
 ## Abstract
 
 The audiovisual memory recorded on film and magnetic media by social collectives in the last third of the 20th century faces a significant risk of disappearing. We aim to preserve this crucial perspective of history. To achieve this, we propose creating a network, driven by audiovisual, archival, and citizen participation professionals, to connect two complementary agents: social collectives and individuals owning audiovisual materials, and cultural institutions responsible for document preservation. This non-profit collective seeks to contribute participatively to conserving the audiovisual memory of social movements and to recognize Collective Memory as part of a pluralistic perspective of history.
